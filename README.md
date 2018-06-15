@@ -26,3 +26,15 @@ Here are the lectures of the course for this section.
 **After watching (learning outcomes)…**
 Ready and raring to start this section.
 
+
+### 2 Number Wizard UI Game Design ###
+
+**In this video (objectives)…**
+
+1. Reminder of the core guessing game mechanic.
+2. Presentation of our game flow through the main scenes.
+3. Discussion of theme and tone of the game.
+
+
+**After watching (learning outcomes)…**
+Clear on the design objectives for the game.
