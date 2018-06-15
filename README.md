@@ -38,3 +38,16 @@ Ready and raring to start this section.
 
 **After watching (learning outcomes)…**
 Clear on the design objectives for the game.
+
+
+### 3 UI Anchors ###
+
+**In this video (objectives)…**
+
+1. Add a button to our canvas.
+2. Add an image to our canvas.
+3. Adjust the stretch and anchor settings so that our UI assets are aligned how we want them to be even if the game is played at different aspect ratios or resolutions.
+
+
+**After watching (learning outcomes)…**
+Capable of implementing UI anchor points works.
