@@ -64,3 +64,16 @@ Capable of implementing UI anchor points works.
 
 **After watching (learning outcomes)…**
 Create nice looking buttons that can be used for awesome functionality.
+
+
+### 5 Button Click Loads Scene ###
+
+**In this video (objectives)…**
+
+1. Create public method to load the next scene.
+2. Add build index to scenes.
+3. Hook up start button with LoadNextScene() public method.
+
+
+**After watching (learning outcomes)…**
+Create public method to load next scene, triggered from a button.
