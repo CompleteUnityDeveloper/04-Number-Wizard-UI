@@ -51,3 +51,16 @@ Clear on the design objectives for the game.
 
 **After watching (learning outcomes)…**
 Capable of implementing UI anchor points works.
+
+
+### 4 Making Buttons ###
+
+**In this video (objectives)…**
+
+1. Add mouse over and click effect to our button.
+2. Improve font quality using TextMesh Pro text for the button.
+3. Create 3 scenes, each of which has a button that can be used to load new scenes.
+
+
+**After watching (learning outcomes)…**
+Create nice looking buttons that can be used for awesome functionality.
