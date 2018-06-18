@@ -90,3 +90,16 @@ Create public method to load next scene, triggered from a button.
 
 **After watching (learning outcomes)…**
 Load all scenes in our game using buttons.
+
+
+### 7 Prepare Game Screen ###
+
+**In this video (objectives)…**
+
+1. Examine our "spec" for the game screen.
+2. Implement all the buttons, text, images required for the game screen.
+3. Ensure all game objects are properly named and ready for action.
+
+
+**After watching (learning outcomes)…**
+Implement UI elements required for our core game from our game design.
