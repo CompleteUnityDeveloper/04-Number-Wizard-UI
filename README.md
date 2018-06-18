@@ -77,3 +77,16 @@ Create nice looking buttons that can be used for awesome functionality.
 
 **After watching (learning outcomes)…**
 Create public method to load next scene, triggered from a button.
+
+
+### 6 Load All Scenes ###
+
+**In this video (objectives)…**
+
+1. Create new method to load straight to our first scene.
+2. Hook up all buttons to loading functionality.
+3. Load all scenes.
+
+
+**After watching (learning outcomes)…**
+Load all scenes in our game using buttons.
