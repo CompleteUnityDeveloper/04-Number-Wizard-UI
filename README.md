@@ -103,3 +103,15 @@ Load all scenes in our game using buttons.
 
 **After watching (learning outcomes)…**
 Implement UI elements required for our core game from our game design.
+
+
+### 8 Import & Refactor Code ###
+
+**In this video (objectives)…**
+
+1. Import our NumberWizard.cs code from previous section of the course.
+2. Assess what needs to be refactored / changed in order to have our code work with our user interface.
+3. Refactor the code including player input mechanism.
+
+**After watching (learning outcomes)…**
+Refactor our code so that it is ready to hook up with our user interface.
