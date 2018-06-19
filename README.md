@@ -115,3 +115,15 @@ Implement UI elements required for our core game from our game design.
 
 **After watching (learning outcomes)…**
 Refactor our code so that it is ready to hook up with our user interface.
+
+
+### 9 Using ToString() ###
+
+**In this video (objectives)…**
+
+1. Hook up our buttons to the previously created methods.
+2. Link our UI text field to our code.
+3. Use ToString() to convert our integer into a string to be displayed in our text field.
+
+**After watching (learning outcomes)…**
+Connect a variable in our code with a text field in our UI.
