@@ -127,3 +127,15 @@ Refactor our code so that it is ready to hook up with our user interface.
 
 **After watching (learning outcomes)…**
 Connect a variable in our code with a text field in our UI.
+
+
+### 10 Using Random.Range() ###
+
+**In this video (objectives)…**
+
+1. Use Random.Range() for our guess to introduce randomness.
+2. Refactor our code to only have 1 place of calculating guess.
+3. Tweak our logic to prevent the computer from guessing a number already guessed.
+
+**After watching (learning outcomes)…**
+Use Random.Range() to add randomness to the number guessed.
