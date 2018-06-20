@@ -129,7 +129,7 @@ Refactor our code so that it is ready to hook up with our user interface.
 Connect a variable in our code with a text field in our UI.
 
 
-### 10 Using Random.Range() ###
+### 10 Use Random.Range() ###
 
 **In this video (objectives)…**
 
@@ -139,3 +139,15 @@ Connect a variable in our code with a text field in our UI.
 
 **After watching (learning outcomes)…**
 Use Random.Range() to add randomness to the number guessed.
+
+
+### 11 Polish & Standalone Build ###
+
+**In this video (objectives)…**
+
+1. Use Application.Quit() to create a quit button for our game.
+2. Add final text, colours and tweaks to the game.
+3. Build to PC, Mac, Linux Standalone.
+
+**After watching (learning outcomes)…**
+Create a final PC / Mac / Linux Standalone build.
