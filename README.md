@@ -151,3 +151,13 @@ Use Random.Range() to add randomness to the number guessed.
 
 **After watching (learning outcomes)…**
 Create a final PC / Mac / Linux Standalone build.
+
+
+### 12 NWUI Instructor Hangout #1 ###
+
+**In this video (objectives)…**
+
+1. We discuss namespaces in more detail.
+
+**After watching (learning outcomes)…**
+A hangout where Ben and Rick talk about namespaces.
